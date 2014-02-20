@@ -1,4 +1,3 @@
-
 $ mkdir ~/hello
 # Creates a directory for your project called "world" in your user directory
 
@@ -23,7 +22,7 @@ $ git commit -m 'first commit'
 
 
 
-$ git remote add origin https://github.com/username/Hello-World.git
+$ git remote add origin https://github.com/username/hello.git
 # Creates a remote named "origin" pointing at your GitHub repository
 
 $ git push origin master
